@@ -1,6 +1,7 @@
 //NAME - KUNAL
 //ROLLNO - 2010990403
 //GROUP - G9
+//SET - 03
 //Q2 - FIND A PAIR WITH GIVEN SUM IN AN ARRAY
 #include<iostream>
 using namespace std;
