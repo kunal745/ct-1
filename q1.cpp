@@ -1,6 +1,7 @@
 //NAME - KUNAL
 //ROLLNO. - 2010990403
 //GROUP - G9
+//SET - 03
 //Q-1 REARRANGE AN ARRAY WITH ALTERNATE HIGH AND LOW ELEMENTS.
 #include<iostream>
 #include<algorithm>
